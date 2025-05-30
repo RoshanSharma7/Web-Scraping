@@ -34,7 +34,8 @@ This project uses Python libraries to scrape product data from an e-commerce sit
 3. Create and activate a virtual environment (optional but recommended):
     ```sh
     python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    source venv/bin/activate  # For Linux
+    venv\Scripts\activate     # On Windows use `
     ```
 4. Install the dependencies:
     ```sh
@@ -44,7 +45,7 @@ This project uses Python libraries to scrape product data from an e-commerce sit
 ## Usage
 To run the scraper and collect product data:
 ```sh
-python scraper.py "laptop"
+python scraper.py runserver
 ```
 
 This will search for "laptop" on the target e-commerce site and save the results in `products.csv`.
