@@ -39,7 +39,7 @@ This project uses Python libraries to scrape product data from an e-commerce sit
     cd web-scraper
     ```
 
-3. Create and activate a virtual environment (optional but recommended):
+3. Create and activate a virtual environment:
     ```sh
     python -m venv venv
     source venv/bin/activate  # For Linux
