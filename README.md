@@ -30,12 +30,12 @@ This project uses Python libraries to scrape product data from an e-commerce sit
 
 ## Installation and Setup
 1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/web-scraper.git
+    ```
+    www.gitgub.com/RoshanSharma7/Web-Scraping.git
     ```
 
 2. Navigate to the project directory:
-    ```sh
+    ```
     cd web-scraper
     ```
 
@@ -53,7 +53,7 @@ This project uses Python libraries to scrape product data from an e-commerce sit
 
 ## Usage
 To run the scraper and collect product data:
-```sh
+```
 python scraper.py runserver
 ```
 
